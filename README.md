@@ -10,7 +10,7 @@ d = \vec{A}.\vec{B}
 ### Code Snippets
 
 1 **python**
-  ```
+  ```python
 import numpy as np
 
 # Creating two numpy One-Dimensional array using the array() method
@@ -34,7 +34,7 @@ print("\nResult...\n",np.vdot(arr1, arr2))
 ```
  
 2 **cpp**
-```
+```cpp
 #include <iostream>
 #include <vector>
 #include <numeric>
